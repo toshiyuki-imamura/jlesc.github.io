@@ -119,9 +119,12 @@ Frequent e-mail exchanges between Toshiyuki Imamura and Inge Gutheil.
 In the 5th JLESC meeting at Lyon,  both met and discussed about this project.
 Also, 6th JLESC meeting was hosted by AICS and Inge Gutheil visited AICS.
 Toshiyuki Imamura visited the 7th JLESC workshop in UIUC Urbana and
-will visit the 8th JLESC workshop in Barcelona. He visited Juelich after ISC
+the 8th JLESC workshop in Barcelona. He visited Juelich in 24/07/2017 after ISC'17
 to talk about KNL usage.
-Organized a minisymposium titled 'Performance benchmark of standard eigensolver on KNL systems', at the PMAA2018 conference, Zurich.
+They organized a minisymposium and presented a talk titled 'Performance benchmark of standard eigensolver on KNL systems', at the PMAA2018 conference, Zurich.
+In 2019, Toshiyuki visited Juelich again in 24-25/01/2019 and talked about GPU usage on ELPA and EigenExa libraries.
+Toshiyuki will join the 9th JLESC meeting in Tennessee Knoxville.
+
 
 ## Impact and publications
 
